@@ -1,5 +1,5 @@
 # Twitter_Sentiment_Analysis
-Creates a CSV file of a chosen topics tweets aswell as it's sentiment
+Creates a CSV file of a chosen topics tweets along with its sentiment
 
 ## Dependencies ##
 
