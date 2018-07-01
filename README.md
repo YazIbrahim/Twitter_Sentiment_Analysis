@@ -9,6 +9,6 @@ Creates a CSV file of a chosen topics tweets along with its sentiment
 
 ## Usage ##
 
-*Replace '##' in the tweetrsentiment.py file with the appropriate values
+*Replace '##' in the tweetsentiment.py file with the appropriate values
 *Enter a topic into - public_tweets = api.search('') - to retrieve public tweets on a chosen topic 
 
